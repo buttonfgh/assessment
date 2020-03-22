@@ -62,6 +62,7 @@ const answers = [//const:再代入できない
 '{userName}のいいところはそのすべて．{userName}．',
 '{userName}のいいところは自制心．{userName}．',
 '{userName}のいいところは{userName}．',
+'{userName}のいいところは優しさです．{userName}あなたの優しい雰囲気や立ち振る舞いに多くの人が癒されています．'
 ];
 /**
  * 名前の文字列を入力すると診断結果を返す関数
